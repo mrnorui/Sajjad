@@ -72,6 +72,7 @@ class DownloadActivity : AppCompatActivity() {
     }
 
     private fun startDownload() {
+        //This is test comment
         binding.apply {
             downloadId = PRDownloader.download(filepath, dirPath, fileName)
                 .build()
