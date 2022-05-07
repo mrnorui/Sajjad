@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">دوره سجاد</string>
+    <string name="testText">این متن صرفا برای تست میباشد</string>
+    <string name="signIn"><u>ورود</u></string>
+</resources>

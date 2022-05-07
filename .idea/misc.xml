@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/drawable/bg_gradient_pink.xml" value="0.195" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/drawable/bg_rounded_black.xml" value="0.37743589743589745" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/drawable/bg_rounded_pink.xml" value="0.195" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/drawable/bg_top_rounded_white.xml" value="0.2155" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/drawable/ic_round_save.xml" value="0.37743589743589745" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout-land/activity_main.xml" value="0.34427083333333336" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_add_note.xml" value="0.3296296296296296" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_detail.xml" value="0.31851851851851853" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_main.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_navigation.xml" value="0.3296296296296296" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_pages.xml" value="0.31851851851851853" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_room.xml" value="0.3296296296296296" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/activity_update_notes.xml" value="0.3296296296296296" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/fragment_home.xml" value="0.31851851851851853" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/fragment_profile.xml" value="0.3296296296296296" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/fragment_shop.xml" value="0.3671875" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/item_houses.xml" value="0.31851851851851853" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/layout/item_notes.xml" value="0.3296296296296296" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/app/src/main/res/menu/menu_bottom.xml" value="0.3671875" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/drawable/bg_circle_white.xml" value="0.17" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/activity_detail.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/activity_download.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/activity_main.xml" value="0.3194444444444444" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/activity_register.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/activity_splash.xml" value="0.3194444444444444" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/dialog_base.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/dialog_images.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/fragment_favorite.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/fragment_home.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/fragment_search.xml" value="0.353125" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/item_genres.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/item_images.xml" value="0.3671875" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/layout/item_movies.xml" value="0.2722222222222222" />
+        <entry key="..\:/Projects/Classes/Android/SajadCourse/mvp/src/main/res/menu/menu_home.xml" value="0.3194444444444444" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

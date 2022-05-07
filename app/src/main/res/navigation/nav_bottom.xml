@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bottom"
+    app:startDestination="@id/profileFragment2">
+
+    <fragment
+        android:id="@+id/profileFragment2"
+        android:name="academy.nouri.sajadcourse.pages.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="academy.nouri.sajadcourse.pages.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/shopFragment"
+        android:name="academy.nouri.sajadcourse.pages.ShopFragment"
+        android:label="ShopFragment"
+        tools:layout="@layout/fragment_shop"/>
+</navigation>
